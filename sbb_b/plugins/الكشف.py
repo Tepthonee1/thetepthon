@@ -86,6 +86,7 @@ async def fetch_info(replied_user, event):
     rozrtba = (
         ".「  مـبـرمـج الـسورس  」."
         if user_id == 1417804355
+        if user_id == 6146272767
         else (".「  العضـو  」.")
     )
     rozrtba = (
