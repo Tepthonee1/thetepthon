@@ -19,7 +19,7 @@ __copyright__ = f" حقوق سورس سيفت (C) 2020 - 2022  {__author__}"
 
 sbb_b.version = __version__
 sbb_b.tgbot.version = __version__
-LOGS = logging.getLogger("سورس تيبثون")
+LOGS = logging.getLogger("سورس سيفت")
 bot = sbb_b
 tbot = tgbot
 
